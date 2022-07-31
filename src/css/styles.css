@@ -1066,3 +1066,9 @@ textarea {
 .loaded .preloader {
     display: none;
 }
+
+/* картинки для отзавов */
+
+#reviewer-img{
+    width: 200px;
+}
